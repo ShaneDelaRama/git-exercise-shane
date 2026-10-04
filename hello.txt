@@ -1,0 +1,1 @@
+Hello, this is Shane learning Git! :DD
